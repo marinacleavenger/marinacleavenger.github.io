@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Marina Cleavenger",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "",
+    "email": "marinacl@hawaii.edu",
+    "phone": "8054692119",
+    "website": "https://marinacleavenger.github.io",
+    "summary": "I am a BBA canidate for Management Information Systems and International Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "marinacleavenger", "url": "https://marinacleavenger.github.io/" },
+      { "network": "linkedin", "username": "marina-cleavenger", "url": "www.linkedin.com/in/marina-cleavenger" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Sustainability" },
+    { "name": "Aerospace technology" },
+    { "name": "Horror Movies" },
+    { "name": "Hiking" },
+    { "name": "My major" }
   ],
   "skills": [
     {
