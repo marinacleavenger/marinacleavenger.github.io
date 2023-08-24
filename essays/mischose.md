@@ -1,25 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Why I Chose MIS"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-24
 published: true
 labels:
-  - Engineering
+  - Undergraduate 
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+***Why I chose MIS***
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Choosing Management Information Systems was a long process I went through the past two years. I was orginally a Management major, but when I took the first major level course freshmen year of college, I realized that I wanted to do more than what was offered in the major. I did not know what to do or where to go from there. I looked into all the business majors such as Marketing, Accounting, Entreprenuership, and etc. I was lost, and at that time, I did not know what Management Information Systems was. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+That summer I took ICS 101 (Intro to computer science). I heard my friends say it was a really hard class and that they did not enjoy it. I was pleasantly surprised when it became one of my favorite classes I have taken. I loved the structure and organization of how to accomplish tasks. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+Second semester of my freshmen year of college I was enrolled into BUS 310 (business tatistics) and BUS 311 (Information Systems). I was secretly dreading the classes because I thought they would be difficult and not interesting. I could not have been more wrong. I have never taken a class that I was naturally good at until BUS 310. I loved what I was doing and was excited for class. 
 
 ## In the context of programming
 
