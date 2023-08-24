@@ -4,7 +4,7 @@ title: Marina Cleavenger | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://marinacleavenger.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "https://avatars.githubusercontent.com/u/143053250?s=400&u=2997e26a551141e5c736dc7a35a6b7d2165d3da7&v=4"
+baseurl: ""
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
