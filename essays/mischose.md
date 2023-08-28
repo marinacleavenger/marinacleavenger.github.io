@@ -17,4 +17,4 @@ That summer I took ICS 101 (Intro to Computer Science). I heard my friends say i
 
 First semester of my sophomore year of college I was enrolled into BUS 310 (Business Statistics) and BUS 311 (Information Systems). From those two classes, the spark for technology and business crossing over excited me. I was first introduced to Management Information System in BUS 311. SQL, Access Database, and Salesforce were my favorite topics we learned. From there, I did a lot of research about MIS. I met with multiple MIS majors, I talked to people who have the degree, and spent too much time on Youtube learning about the major.  
 
-In the end, I decided to offically change my major/direction. What attracted me most was that I would never stop learning after I completed the degree. Also, the classes seemed very interesting to me that I would take at UH in the future.
+In the end, I decided to officially change my major/direction. What attracted me most was that I would never stop learning after I completed the degree. Also, the classes seemed very interesting to me that I would take at UH in the future.
