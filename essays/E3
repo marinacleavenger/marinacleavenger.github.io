@@ -1,0 +1,21 @@
+---
+layout: essay
+type: essay
+title: "E3: Preparing for WODs Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-23
+published: true
+labels:
+  -  
+---
+
+<b>Preparing for WODs Essay</b> <br>
+
+<br>Provide a brief introduction to the WOD along with a link to the WOD page for further details (from Dr. Port's GitHub repository)
+
+<br> My personal experience with WOD 5.1 was efficient, fast, and also a good amount of challenge. I believe the instructions were mostly clear during the entire process. The WORD discussed where to put the location of the code so I was able to put it in the head without messing around with different areas. What slowed me down was linking the images. I realized that I was supposed to leave an open tag, but instead I accidentally put a closed one. Ex/ It was supposed to be <img= src... and I put <img> = src... I figured it out when I looked back on Laulima to the code that was given. <br>
+
+<br> I prepared for this WOD by doing it myself first. Usually, I try it without the video to make sure everything works, then I watch the video to see the end result looks closer to mine. I also made a plan of what I needed to do throughout the WOD. My plan was to try the replacement of code again, make sure the heading, price, and images work, and then also to know how to link the .js file to the html. This is how I usually do WOD's. <br>
+
+<br> I believe I could've prepared better by completing it on the same day. I did half the WOD myself and then finished it the next day, but I was having trouble remembering what I have already done or not done. Next time, I will carve out enough time to sit and complete it fully on the same day. 
+
